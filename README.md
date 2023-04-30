@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/dibyendu_4" target="blank"><img src="https://img.shields.io/twitter/follow/dibyendu_4?logo=twitter&style=for-the-badge" alt="dibyendu_4" /></a> </p>
 
-- 🔭 I’m currently working on ****inotebook****
+- 🔭 I’m currently working on ****College Project****
 
-- 🌱 I’m currently learning ****Back-End****
+- 🌱 I’m currently learning ****Front-end libraries****
 
 - 👯 I’m looking to collaborate on ****other developers, designers and analysts.****
 
@@ -19,7 +19,7 @@
 
 - 💬 Ask me about ****Web Development****
 
-- 📫 How to reach me **mahatadibyendu4@gmail.com** OR ****<a href="https://www.linkedin.com/in/dibyendu-mahata/">LINKEDIN</a>.****
+- 📫 How to reach me **subratknayak006@gmail.com** OR ****<a href="https://www.linkedin.com/in/subrat-kumar-nayak-39b9b4197">LINKEDIN</a>.****
 
 - 📄 Know about my experiences **<a href="https://github.com/DIBYENDU4/DIBYENDU4/blob/main/DIBYENDU%20CV.pdf">RESUME</a>.**
 
