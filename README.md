@@ -29,7 +29,7 @@
 <a href="https://www.linkedin.com/in/subrat-kumar-nayak-39b9b4197" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dibyendu-mahata" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100015139624903" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dibyendu.mahata.52" height="30" width="40" /></a>
 <a href="https://www.instagram.com/subrat_titanbeast01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dibyendu9064" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/dibyendu_mahata" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dibyendu_mahata" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/subratknayak006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dibyendu_mahata" height="30" width="40" /></a>
 </p>
 
 <h3 align="Center">Languages and Tools:</h3>
