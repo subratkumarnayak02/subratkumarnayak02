@@ -21,15 +21,14 @@
 
 - 📫 How to reach me **subratknayak006@gmail.com** OR ****<a href="https://www.linkedin.com/in/subrat-kumar-nayak-39b9b4197">LINKEDIN</a>.****
 
-- 📄 Know about my experiences **<a href="https://github.com/DIBYENDU4/DIBYENDU4/blob/main/DIBYENDU%20CV.pdf">RESUME</a>.**
+- 📄 Know about my experiences **<a href="https://drive.google.com/file/d/1VWnasMrm5tzA6gAD0KE-_yv_imXFlR_o/view?usp=sharing">RESUME</a>.**
 
 <h3 align="Center">Connect with me:</h3>
 <p align="Center">
-<a href="https://twitter.com/dibyendu_4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dibyendu_4" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/subrat-kumar-nayak-39b9b4197" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dibyendu-mahata" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100015139624903" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dibyendu.mahata.52" height="30" width="40" /></a>
-<a href="https://www.instagram.com/subrat_titanbeast01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dibyendu9064" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/subratknayak006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dibyendu_mahata" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/subrat-kumar-nayak-39b9b4197" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subrat-kumar-nayak-39b9b4197" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100015139624903" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.instagram.com/subrat_titanbeast01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="subrat_titanbeast01" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/subratknayak006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="subratknayak006" height="30" width="40" /></a>
 </p>
 
 <h3 align="Center">Languages and Tools:</h3>
